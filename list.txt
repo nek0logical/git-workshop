@@ -1,0 +1,5 @@
+1. (High) Milk
+2. (High) Eggs
+3. (Low) Carrots
+4. (Low) Apples
+5. (Critical) Avocados
